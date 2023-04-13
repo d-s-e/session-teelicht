@@ -1,0 +1,15 @@
+[Unit]
+Description=Session Teelicht
+After=network.target mosquitto.service
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=10
+User=session-teelicht
+ExecStart=/opt/session-teelicht/.venv/bin/python3 /opt/session-teelicht/main.py
+
+[Install]
+WantedBy=multi-user.target
+
