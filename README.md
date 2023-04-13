@@ -7,9 +7,9 @@ maybe forget it again.
 
 To solve this, I did a small IoT-Setup, that was meant to solve this problem.
 
-![Image of a glowing Wifi lamp and a tea cup](images/lamp.png)
+![Image of a glowing Wifi lamp and a tea cup](images/lamp.jpg)
 
-![Image of an electric water kettle connected with a Wifi plug](images/plug.png)
+![Image of an electric water kettle connected with a Wifi plug](images/plug.jpg)
 
 
 ## Parts required:
