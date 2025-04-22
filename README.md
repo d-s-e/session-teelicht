@@ -1,6 +1,6 @@
 # Session Teelicht (tea light)
 
-**This repository has been moved to [Codeberg]([https://codeberg.org/d-s-e/game-screen](https://codeberg.org/d-s-e/session-teelicht)).**
+**This repository has been moved to [Codeberg](https://codeberg.org/d-s-e/session-teelicht).**
 
 During our hacking events we often had the problem, that someone started
 the water kettle in the other room to make tea, and forgot about it while
